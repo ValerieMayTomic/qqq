@@ -1,0 +1,150 @@
+ID: 0
+Question: How many feet tall was the tallest giraffe ever recorded?
+Answer: 20
+ID: 1
+Question: In what year did Benjamin Franklin prove that lightning was electricity, after flying his kite in a thunderstorm?
+Answer: 1752
+ID: 2
+Question: In what year did MTV play its first music video?
+Answer: 1981
+ID: 3
+Question: How many points did Michael Jordan average over his NBA career?
+Answer: 30.1
+ID: 4
+Question: How many bones are in adult human body?
+Answer: 206
+ID: 5
+Question: How many miles long is the Missisippi River?
+Answer: 2302.18
+ID: 6
+Question: In dollars, what was Julia Roberts' salary for her role in the hit movie Pretty Women?
+Answer: 300000
+ID: 7
+Question: In pounds, what was the weight of the largest gold nugget ever found?
+Answer: 156
+ID: 8
+Question: How many men signed the Declaration of Independance?
+Answer: 56
+ID: 9
+Question: How many calories are there in a standard 12-ounce can of Coca-Cola Classic?
+Answer: 140
+ID: 10
+Question: As of 2005, what was the least number of combined points scored by both teams in a Super Bowl?
+Answer: 21
+ID: 11
+Question: How many feet tall is the Empire State Building?
+Answer: 1250
+ID: 12
+Question: In what year did the first episode of the animated sitcom The Simpsons air?
+Answer: 1989
+ID: 13
+Question: If a person weighs 100 pounds on Earth, how many pounds would they weigh on the moon?
+Answer: 16.67
+ID: 14
+Question: What percent of the Earth's water area does the Atlantic Ocean make up?
+Answer: 21.26
+ID: 15
+Question: In what year did the repeal of Prohibition make it legal once again to sell alcohol in the US?
+Answer: 1933
+ID: 16
+Question: How many official languages are used by the United Nations?
+Answer: 6
+ID: 17
+Question: In what year was penicillin, the first antibiotic, discovered?
+Answer: 1928
+ID: 18
+Question: How many US $1 bills would be contained in a stack of bills one foot high?
+Answer: 2746
+ID: 19
+Question: In what year was the film Citizen Kane first released?
+Answer: 1941
+ID: 20
+Question: How many artists made up USA for Africa, the group that recorded the 1985 hit song We Are the World?
+Answer: 45
+ID: 21
+Question: Greenland is the world's largest island. What percent of it is continuously covered with a sheet of ice?
+Answer: 81
+ID: 22
+Question: In what year did the United Nations formally recognize Israel as an independant country?
+Answer: 1948
+ID: 23
+Question: How many paintings did Vincent van Gogh sell during his lifetime?
+Answer: 1
+ID: 24
+Question: In dollars, how much does the average American dog owner spend on a dog over its lifetime?
+Answer: 31995
+ID: 25
+Question: In how many seasons did Babe Ruth lead Major League Baseball in home runs?
+Answer: 11
+ID: 26
+Question: In what year was the film Casablanca first released?
+Answer: 1942
+ID: 27
+Question: How many times did the New York Yankees play in the World Series during the 1900's?
+Answer: 36
+ID: 28
+Question: How many feet above sea level is the highest point on Mount McKinley, the tallest mountain in the US?
+Answer:20320
+ID: 29
+Question: In what year did American troops inside the tiny country of Grenada to overthrow its communist government?
+Answer: 1983
+ID: 30
+Question: The Pablo Picasso painting Le Reve was purchased for $7000 in 1941. How many dollars was it purchased for in 1997?
+Answer: 48400000
+ID: 31
+Question: In miles per hour, what is the maximum recorded speed for a mammal?
+Answer: 71
+ID: 32
+Question: In what year did the first issie of Rolling Stone magazine  hit the newsstands?
+Answer: 1967
+ID: 33
+Question: In pounds, what was the weight of the largest hamburger ever served?
+Answer: 8256
+ID: 34
+Question: How many songs did Elvis Presley have in the Billboard Pop Singles Chart?
+Answer: 148
+ID: 35
+Question: How many licks does it really take to get to the center of a Tootsie Pop?
+Answer: 252
+ID: 36
+Question: In feet, what is the highest recorded jump by a dolphin?
+Answer: 25
+ID: 37
+Question: How many John Grisham books have made it to #1 on the New York Times Bestseller list?
+Answer: 26
+ID: 38
+Question: In minutes, what is the combined length of the 3 The Lord of the Rings movies?
+Answer: 557
+ID: 39
+Question: In feet, how tall is Michelangelo's David statue?
+Answer: 14
+ID: 40
+Question: How many years old was the youngest Microsoft-certified system administrator?
+Answer: 5
+ID: 41
+Question: In what year did the Muppet Show first air?
+Answer: 1976
+ID: 42
+Question: In feet, how long was the longest snake ever recorded?
+Answer: 25.17
+ID: 43
+Question: In what year was the microchip invented?
+Answer: 1959
+ID: 44
+Question: In 2007, how many different colors of Crayola crayons were available?
+Answer: 120
+ID: 45
+Question: In inches, what is the greatest amount of snow to fall in a single US location over a 24-hour period?
+Answer: 75.8
+ID: 46
+Question: In what year was the first Men's World Cup of Soccer played?
+Answer: 1930
+ID: 47
+Question: In inches, how tall is the Oscar statuette?
+Answer: 13.5
+ID: 48
+Question: For how many years was Nelson Mandela imprisoned in South Africa?
+Answer: 27
+ID: 49
+Question: What is the 10th digit of pi?
+Answer: 3

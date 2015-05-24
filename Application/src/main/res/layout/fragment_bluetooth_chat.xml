@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#239eaa"
+        android:id="@+id/entry_layout"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="question"
+            android:id="@+id/questionLabel"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textSize="60dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#e5e5e5"
+            android:textStyle="italic"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="140dp"
+            android:text="New Text"
+            android:id="@+id/displayQuestion"
+            android:textColor="#ff9933"
+            android:textSize="20dp"
+            android:layout_below="@+id/questionLabel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="answer"
+            android:id="@+id/answerLabel"
+            android:textSize="60dp"
+            android:textColor="#e5e5e5"
+            android:layout_above="@+id/inputAnswer"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textStyle="italic"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/inputAnswer"
+            android:background="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:text="Submit"
+            android:id="@+id/submit"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="69dp"
+            android:background="#e5e5e5"
+            android:textSize="30dp" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#239eaa"
+        android:id="@+id/final_layout"
+        android:visibility="gone"
+       >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="correct answer"
+            android:id="@+id/correctanswertext"
+            android:textColor="#e5e5e5"
+            android:textStyle="italic"
+            android:textSize="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:text="100000"
+            android:id="@+id/correctAnswer"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#ff9933"
+            android:textSize="60dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="your score"
+            android:id="@+id/playerOneText"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#e5e5e5"
+            android:textSize="40dp"
+            android:layout_marginTop="140dp"
+            android:textStyle="italic" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="+10"
+            android:id="@+id/playerOneScore"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#ff9933"
+            android:textSize="40dp"
+            android:layout_marginTop="140dp"
+            android:layout_marginLeft="220dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="opponent"
+            android:id="@+id/playerTwoText"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#e5e5e5"
+            android:textSize="40dp"
+            android:layout_marginTop="200dp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="+0"
+            android:id="@+id/playerTwoScore"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#ff9933"
+            android:textSize="40dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="220dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="Play another round"
+            android:id="@+id/playAnotherRound"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_marginTop="300dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#e5e5e5"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="Exit"
+            android:id="@+id/exit"
+            android:layout_below="@+id/correctanswertext"
+            android:layout_marginTop="370dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#e5e5e5"
+            android:textSize="20dp" />
+
+
+
+    </RelativeLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/start_layout">
+
+
+        <Button
+            android:id="@+id/button_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="START" />
+    </LinearLayout>
+
+</LinearLayout>
